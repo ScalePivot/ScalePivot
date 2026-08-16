@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1320" viewBox="0 0 600 1320" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Security Control Plane</title>
+  <desc id="desc">A mobile-friendly vertical decision architecture from agent action to runtime enforcement.</desc>
+  <rect width="600" height="1320" rx="24" fill="#0B1220"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="300" y="54" fill="#F8FAFC" font-size="31" font-weight="700" letter-spacing="0">Agent Security Control Plane</text>
+    <text x="300" y="84" fill="#94A3B8" font-size="17" letter-spacing="0">Continuous runtime security decisions</text>
+    <g fill="none" stroke="#475569" stroke-width="3">
+      <path d="M300 170V222M300 322V382M300 562V632M300 732V782M300 882V932M300 1032V1070"/>
+      <path d="M300 1070H105V1090M300 1070V1090M300 1070H495V1090M300 1160V1180M300 1160H200V1180M300 1160H400V1180"/>
+    </g>
+    <g fill="#111827" stroke="#334155" stroke-width="2">
+      <rect x="80" y="110" width="440" height="60" rx="12"/>
+      <rect x="50" y="222" width="500" height="100" rx="14"/>
+      <rect x="50" y="382" width="500" height="180" rx="14"/>
+      <path d="M50 472H550"/>
+      <rect x="50" y="632" width="500" height="100" rx="14"/>
+      <rect x="50" y="782" width="500" height="100" rx="14"/>
+      <rect x="50" y="932" width="500" height="100" rx="14"/>
+    </g>
+    <rect x="50" y="222" width="500" height="100" rx="14" fill="#0C2544" stroke="#38BDF8" stroke-width="3"/>
+    <rect x="50" y="932" width="500" height="100" rx="14" fill="#1E1B4B" stroke="#818CF8" stroke-width="3"/>
+    <text x="300" y="148" fill="#F8FAFC" font-size="24" font-weight="650">Agent Action</text>
+    <text x="300" y="263" fill="#38BDF8" font-size="26" font-weight="700">Runtime Sensor</text>
+    <text x="300" y="295" fill="#CBD5E1" font-size="18">Tool · MCP · Process · File · Network</text>
+    <text x="300" y="422" fill="#F8FAFC" font-size="26" font-weight="700">Identity</text>
+    <text x="300" y="452" fill="#94A3B8" font-size="18">Agent · Session · Authority</text>
+    <text x="300" y="512" fill="#F8FAFC" font-size="26" font-weight="700">Context</text>
+    <text x="300" y="542" fill="#94A3B8" font-size="18">Task · Memory · Runtime State</text>
+    <text x="300" y="674" fill="#F8FAFC" font-size="26" font-weight="700">Behavior Graph</text>
+    <text x="300" y="706" fill="#94A3B8" font-size="18">Lineage · Relationships · History</text>
+    <text x="300" y="824" fill="#F8FAFC" font-size="26" font-weight="700">Detection</text>
+    <text x="300" y="856" fill="#94A3B8" font-size="18">Rules · Models · Correlation · Risk</text>
+    <text x="300" y="974" fill="#A5B4FC" font-size="26" font-weight="700">Policy Decision</text>
+    <text x="300" y="1006" fill="#CBD5E1" font-size="18">Intent · Permission · Context · Risk</text>
+    <g font-size="18" font-weight="700">
+      <rect x="30" y="1090" width="150" height="70" rx="12" fill="#052E2B" stroke="#34D399" stroke-width="2"/>
+      <rect x="225" y="1090" width="150" height="70" rx="12" fill="#352A0B" stroke="#FBBF24" stroke-width="2"/>
+      <rect x="420" y="1090" width="150" height="70" rx="12" fill="#3B1D0A" stroke="#FB923C" stroke-width="2"/>
+      <rect x="125" y="1180" width="150" height="70" rx="12" fill="#3F1217" stroke="#F87171" stroke-width="2"/>
+      <rect x="325" y="1180" width="150" height="70" rx="12" fill="#261540" stroke="#A78BFA" stroke-width="2"/>
+      <text x="105" y="1133" fill="#6EE7B7">ALLOW</text>
+      <text x="300" y="1133" fill="#FCD34D">ASK</text>
+      <text x="495" y="1133" fill="#FDBA74">REDACT</text>
+      <text x="200" y="1223" fill="#FCA5A5">BLOCK</text>
+      <text x="400" y="1214" fill="#C4B5FD">SANDBOX</text>
+      <text x="400" y="1236" fill="#C4B5FD">ISOLATE</text>
+    </g>
+    <text x="300" y="1300" fill="#94A3B8" font-size="17">Observe · Understand · Decide · Control</text>
+  </g>
+</svg>
