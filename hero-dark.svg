@@ -1,20 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">JUNSHU Security</title>
-  <desc id="desc">A geometric pivot and graph node mark beside the JUNSHU Security wordmark.</desc>
-  <rect width="1200" height="320" rx="20" fill="#0B1220"/>
-  <g transform="translate(72 52)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="0" y="0" width="216" height="216" rx="28" stroke="#334155" stroke-width="2"/>
-    <path d="M108 32V184M32 108H184" stroke="#38BDF8" stroke-width="8"/>
-    <path d="M55 55L161 161M161 55L55 161" stroke="#818CF8" stroke-width="3" opacity=".8"/>
-    <circle cx="108" cy="108" r="24" fill="#0B1220" stroke="#F8FAFC" stroke-width="8"/>
-    <circle cx="108" cy="32" r="9" fill="#38BDF8"/>
-    <circle cx="184" cy="108" r="9" fill="#818CF8"/>
-    <circle cx="108" cy="184" r="9" fill="#38BDF8"/>
-    <circle cx="32" cy="108" r="9" fill="#818CF8"/>
+  <desc id="desc">The reverse JUNSHU Security symbol beside the brand name and security control plane tagline.</desc>
+  <rect width="1200" height="320" rx="20" fill="#070A12"/>
+  <rect x="72" y="52" width="216" height="216" rx="30" fill="#526DFF"/>
+  <g transform="translate(90 70) scale(3.75)" fill="none">
+    <path d="M24 5V43" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"/>
+    <path d="M7 11H17.5V20H30.5V11H41" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"/>
+    <path d="M7 37H17.5V28H30.5V37H41" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"/>
+    <path d="M26.5 21.5H21.5V26.5H26.5V21.5Z" fill="#FFFFFF"/>
   </g>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    <text x="338" y="127" fill="#F8FAFC" font-size="64" font-weight="720" letter-spacing="0">JUNSHU Security</text>
-    <text x="341" y="178" fill="#38BDF8" font-size="28" font-weight="650" letter-spacing="0">THE SECURITY CONTROL PLANE FOR AI AGENTS</text>
-    <text x="341" y="222" fill="#94A3B8" font-size="22" font-weight="450" letter-spacing="0">Identity · Context · Tool · Runtime · Graph · Policy</text>
+    <text x="338" y="127" fill="#FFFFFF" font-size="64" font-weight="720" letter-spacing="0">JUNSHU Security</text>
+    <text x="341" y="178" fill="#23CDE2" font-size="28" font-weight="650" letter-spacing="0">SECURITY AT THE POINT OF EXECUTION.</text>
+    <text x="341" y="222" fill="#AAB4C6" font-size="22" font-weight="550" letter-spacing="0">OPEN AGENT RUNTIME SECURITY PLATFORM</text>
   </g>
 </svg>
