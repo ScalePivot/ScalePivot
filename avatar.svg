@@ -1,15 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">JUNSHU Security temporary open-source avatar</title>
-  <desc id="desc">A geometric pivot and graph node mark on a dark navy field.</desc>
-  <rect width="512" height="512" rx="96" fill="#0B1220"/>
-  <rect x="72" y="72" width="368" height="368" rx="72" fill="none" stroke="#334155" stroke-width="6"/>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M256 124V388M124 256H388" stroke="#38BDF8" stroke-width="20"/>
-    <path d="M166 166L346 346M346 166L166 346" stroke="#818CF8" stroke-width="9" opacity=".82"/>
-    <circle cx="256" cy="256" r="50" fill="#0B1220" stroke="#F8FAFC" stroke-width="18"/>
-    <circle cx="256" cy="124" r="17" fill="#38BDF8"/>
-    <circle cx="388" cy="256" r="17" fill="#818CF8"/>
-    <circle cx="256" cy="388" r="17" fill="#38BDF8"/>
-    <circle cx="124" cy="256" r="17" fill="#818CF8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 168 168" role="img" aria-labelledby="title desc">
+  <title id="title">JUNSHU Security avatar</title>
+  <desc id="desc">The official JUNSHU Security symbol on the elevated brand surface.</desc>
+  <rect width="168" height="168" rx="24" fill="#F1F4FA"/>
+  <g transform="translate(12 12)" fill="none">
+    <path d="M72 15V129" stroke="#526DFF" stroke-width="16" stroke-linecap="square"/>
+    <path d="M21 33H52.5V60H91.5V33H123" stroke="#23CDE2" stroke-width="16" stroke-linecap="square"/>
+    <path d="M21 111H52.5V84H91.5V111H123" stroke="#916CFF" stroke-width="16" stroke-linecap="square"/>
+    <path d="M79.5 64.5H64.5V79.5H79.5V64.5Z" fill="#070A12"/>
   </g>
 </svg>
