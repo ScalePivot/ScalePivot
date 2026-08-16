@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">JUNSHU Security</title>
+  <desc id="desc">A geometric pivot and graph node mark beside the JUNSHU Security wordmark.</desc>
+  <rect width="1200" height="320" rx="20" fill="#F8FAFC"/>
+  <g transform="translate(72 52)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="216" height="216" rx="28" stroke="#CBD5E1" stroke-width="2"/>
+    <path d="M108 32V184M32 108H184" stroke="#2563EB" stroke-width="8"/>
+    <path d="M55 55L161 161M161 55L55 161" stroke="#4F46E5" stroke-width="3" opacity=".72"/>
+    <circle cx="108" cy="108" r="24" fill="#F8FAFC" stroke="#0B1220" stroke-width="8"/>
+    <circle cx="108" cy="32" r="9" fill="#2563EB"/>
+    <circle cx="184" cy="108" r="9" fill="#4F46E5"/>
+    <circle cx="108" cy="184" r="9" fill="#2563EB"/>
+    <circle cx="32" cy="108" r="9" fill="#4F46E5"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="338" y="127" fill="#0B1220" font-size="64" font-weight="720" letter-spacing="0">JUNSHU Security</text>
+    <text x="341" y="178" fill="#2563EB" font-size="28" font-weight="650" letter-spacing="0">THE SECURITY CONTROL PLANE FOR AI AGENTS</text>
+    <text x="341" y="222" fill="#475569" font-size="22" font-weight="450" letter-spacing="0">Identity · Context · Tool · Runtime · Graph · Policy</text>
+  </g>
+</svg>
